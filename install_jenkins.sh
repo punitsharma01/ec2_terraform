@@ -12,7 +12,8 @@ sudo systemctl start docker
 sudo usermod -aG docker ubuntu
 sudo systemctl status docker
 
-# from official docs
+# To install docker compose
+# Installation steps from official docs
 
 # Add Docker's official GPG key:
 sudo apt-get update
